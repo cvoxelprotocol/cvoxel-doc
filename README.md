@@ -1,6 +1,6 @@
 # C-Voxel
 
-## **C-Voxel is Decentralized "Career-of-Proof" Protocol**
+## **C-Voxel is Decentralized "Proof-of-Career" Protocol**
 
 **C-Voxel** is a Voxel which has your work data tied to your transfer transaction hash on any chain. It can be generated on Ceramic Network by very simple steps with **NO FEES**.
 
