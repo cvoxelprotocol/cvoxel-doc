@@ -1,71 +1,33 @@
-# What is MyProduct?
+# C-Voxel
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
+## **C-Voxel is Decentralized "Career-of-Proof" Protocol**
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+**C-Voxel** is a Voxel which has your work data tied to your transfer transaction hash on any chain. It can be generated on Ceramic Network by very simple steps with **NO FEES**.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+You can stack your **C-Voxels** as C-Voxel collection, and the collection become your own on-chain **work history / verifiable credentials.**
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+Furthermore, You can easily **share your C-Voxel Collection to any DAOs** and platforms on Web3.0.
+
+![](.gitbook/assets/CVoxel\_GR13\_Header.jpg)
+
+## How does it work?
+
+C-Voxel generates a **decentralized user-owned online CV** on the **Ceramic Network**, which is one of the greatest decentralized data network.
+
+This protocol is part of **verifiable credentials** and forms a decentralized identification. Each job details are tied to on-chain transactions and stored with the signatures of both the payee and the payer.
+
+C-Voxel is **open and platform independent**, allowing users to take it with them wherever they go. In addition, in the future the generated CVoxel can be minted as NFT on various on-chains (we plan to deploy NFT function on ETH L2 at first.). Furthermore, development is underway for integration with distributed DB, which will make the VC protocol even more useful and cooperative.
+
+In the future, we will expand C-Voxel ecosystem by developing products based on C-Voxel such as identification and recruiting tools for DAOs, and credit provision services.
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
+Currently, C-Voxel is running on a testnet as alpha version. Release on the main net is scheduled for 2Q2022.
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+{% embed url="https://testnet.cvoxel.xyz/intro" %}
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
+## Guides: Jump right in
 
-### Guides: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
-
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/creating-your-first-c-voxel.md" %}
+[creating-your-first-c-voxel.md](guides/creating-your-first-c-voxel.md)
 {% endcontent-ref %}
-
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
-{% endcontent-ref %}
-
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
