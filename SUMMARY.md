@@ -1,9 +1,8 @@
 # Table of contents
 
 * [C-Voxel](README.md)
-* [📖 Specification](specification/README.md)
-  * [🟧 Visualization Protocol](specification/visualization-protocol.md)
-  * [🟪 Data Model](specification/data-model.md)
+  * [📖 Protocol Specification](c-voxel/protocol-specification.md)
+  * [🏛 C-Voxel Structures](c-voxel/c-voxel-structures.md)
 
 ## Guides
 

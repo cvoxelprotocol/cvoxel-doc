@@ -8,6 +8,10 @@ You can stack your **C-Voxels** as C-Voxel collection, and the collection become
 
 Furthermore, You can easily **share your C-Voxel Collection to any DAOs** and platforms on Web3.0.
 
+Currently, C-Voxel is running on a testnet as alpha version. Release on the main net is scheduled for 2Q2022.
+
+[https://testnet.cvoxel.xyz/](https://testnet.cvoxel.xyz)
+
 ![](.gitbook/assets/CVoxel\_GR13\_Header.jpg)
 
 ## How does it work?
@@ -20,14 +24,35 @@ C-Voxel is **open and platform independent**, allowing users to take it with the
 
 In the future, we will expand C-Voxel ecosystem by developing products based on C-Voxel such as identification and recruiting tools for DAOs, and credit provision services.
 
-## Getting Started
 
-Currently, C-Voxel is running on a testnet as alpha version. Release on the main net is scheduled for 2Q2022.
 
-{% embed url="https://testnet.cvoxel.xyz/intro" %}
+## How to create new C-Voxel?
 
-## Guides: Jump right in
+Please check out our guide!
 
 {% content-ref url="guides/creating-your-first-c-voxel.md" %}
 [creating-your-first-c-voxel.md](guides/creating-your-first-c-voxel.md)
+{% endcontent-ref %}
+
+
+
+## Environment in Alpha C-Voxel
+
+### DID
+
+Ceramic Network Testnet&#x20;
+
+### Supported transactions / chains
+
+* Ethereum Mainnet
+* Polygon Mainnet
+
+### Supported Wallet
+
+Metamask
+
+## Protocol Specs
+
+{% content-ref url="c-voxel/protocol-specification.md" %}
+[protocol-specification.md](c-voxel/protocol-specification.md)
 {% endcontent-ref %}

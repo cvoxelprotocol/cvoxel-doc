@@ -1,6 +1,6 @@
 # 🔗 Links
 
-**Twitter**: [https://twitter.com/proof\_of\_career](https://twitter.com/proof\_of\_career)
+**Twitter**: [https://twitter.com/C\_Voxel](https://twitter.com/C\_Voxel)
 
 **Discord**: [https://discord.gg/TBJFmJv6uZ](https://discord.gg/TBJFmJv6uZ)
 
