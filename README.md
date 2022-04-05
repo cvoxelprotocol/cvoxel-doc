@@ -26,6 +26,16 @@ In the future, we will expand C-Voxel ecosystem by developing products based on 
 
 
 
+For more infomation like the spec or the structure, please see below.
+
+{% content-ref url="c-voxel/c-voxel-structures.md" %}
+[c-voxel-structures.md](c-voxel/c-voxel-structures.md)
+{% endcontent-ref %}
+
+{% content-ref url="c-voxel/protocol-specification.md" %}
+[protocol-specification.md](c-voxel/protocol-specification.md)
+{% endcontent-ref %}
+
 ## How to create new C-Voxel?
 
 Please check out our guide!
@@ -38,21 +48,15 @@ Please check out our guide!
 
 ## Environment in Alpha C-Voxel
 
-### DID
+#### DID
 
-Ceramic Network Testnet&#x20;
+**Ceramic Network Testnet**&#x20;
 
-### Supported transactions / chains
+#### Supported transactions / chains
 
-* Ethereum Mainnet
-* Polygon Mainnet
+* **Ethereum Mainnet**
+* **Polygon Mainnet**
 
-### Supported Wallet
+#### Supported Wallet
 
-Metamask
-
-## Protocol Specs
-
-{% content-ref url="c-voxel/protocol-specification.md" %}
-[protocol-specification.md](c-voxel/protocol-specification.md)
-{% endcontent-ref %}
+**Metamask**
