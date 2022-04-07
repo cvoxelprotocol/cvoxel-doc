@@ -4,7 +4,9 @@
 This page is working in progress
 {% endhint %}
 
-## How to Generate C-Voxel?
+## How to Create C-Voxel?
+
+{% embed url="https://youtu.be/NZU2VClHAg4" %}
 
 You can issue your C-Voxel by executing really easy steps.
 
