@@ -3,7 +3,7 @@
 * [C-Voxel](README.md)
 * [🏛 C-Voxel Structures](c-voxel-structures.md)
 * [📖 Protocol Specification](protocol-specification.md)
-* [🚩 Road Map](road-map.md)
+* [🚘 Road Map](road-map.md)
 
 ## Guides
 
