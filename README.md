@@ -28,12 +28,12 @@ In the future, we will expand C-Voxel ecosystem by developing products based on 
 
 For more infomation like the spec or the structure, please see below.
 
-{% content-ref url="c-voxel/c-voxel-structures.md" %}
-[c-voxel-structures.md](c-voxel/c-voxel-structures.md)
+{% content-ref url="c-voxel-structures.md" %}
+[c-voxel-structures.md](c-voxel-structures.md)
 {% endcontent-ref %}
 
-{% content-ref url="c-voxel/protocol-specification.md" %}
-[protocol-specification.md](c-voxel/protocol-specification.md)
+{% content-ref url="protocol-specification.md" %}
+[protocol-specification.md](protocol-specification.md)
 {% endcontent-ref %}
 
 ## How to create new C-Voxel?
